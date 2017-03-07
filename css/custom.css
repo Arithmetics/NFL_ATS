@@ -1,0 +1,60 @@
+
+.card {
+	background-color: #222831;
+}
+
+.card-img-top {
+	margin-top: 5px;
+	width: 100%;
+	height: 100%;
+	
+	
+}
+
+
+.card-img-bottom {
+	width: 100%;
+	height: 100%;
+	
+}
+
+.btn {
+	width: 100%;
+	
+}
+
+
+.away {
+	background-color: black;
+	color: white;
+	margin-bottom: 5px;
+	margin-top: 2px;
+}
+
+
+.home {
+	background-color: #FC4C02;
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+
+
+.info {
+	background-color: grey;
+	color: white;
+	
+
+}
+
+.card-block {
+  padding: 0.25rem;
+}
+
+
+.card-header {
+	font-size: 15px;
+}
+
+
